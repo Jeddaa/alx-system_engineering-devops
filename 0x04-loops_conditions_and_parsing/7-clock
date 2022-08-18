@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Displays hours: 0-12, minutes 1-59
 
 i=0
 while [ $i -le 12 ];

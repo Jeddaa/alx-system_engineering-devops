@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
 # matches the cases
 
-puts ARGV[0].scan(/hb?t?/).join
+puts ARGV[0].scan(/hb?t?n/).join

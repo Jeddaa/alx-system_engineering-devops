@@ -24,4 +24,4 @@ Let’s also add other subdomains to make our life easier, and write a Bash scri
 ---
 
 ## Author
-* **Derrick Gee** - [kai-dg](https://github.com/kai-dg)
+* **Fatihah Oduwole** - [Jedda](https://github.com/jeddaa)
